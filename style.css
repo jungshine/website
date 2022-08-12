@@ -1,0 +1,19 @@
+h1 {
+    color: #9600ff;
+  }
+  h2 {
+    color: red;
+  }
+  h3 {
+    color: green}
+  h4 {
+    color: blue}
+  h5 {
+    color: olive}
+  h6 {
+    color: gold}
+  img {
+    display: block;
+    margin-left: 200px;
+  /*   margin-right: auto; */
+  }
